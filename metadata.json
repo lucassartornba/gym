@@ -1,0 +1,7 @@
+{
+  "name": "MyGym Personal Pro",
+  "description": "A minimalist, high-performance fitness tracker for individual use, featuring workout organization, PR tracking, and diet management with a clean Android-inspired design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
